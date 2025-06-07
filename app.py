@@ -1,4 +1,3 @@
-# app.py
 
 from flask import Flask
 from routes import inventario_routes
